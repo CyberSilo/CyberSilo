@@ -6,7 +6,7 @@
 
 <h2>📜 Projects:<h2>
 
- - <b> File Encryption
+ - <b> <a href="https://github.com/CyberSilo/File-Encryption/tree/93aa20f67898bd00f250d5f98fda9a0a7475d24d">File Encryption
  <h2>🌱I’m currently learning:</h2>
  
  - <b>Google Cybersecurity Professional Certificate</b>
