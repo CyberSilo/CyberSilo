@@ -5,6 +5,8 @@
 - <b> <a href="https://coursera.org/share/eade6cd58bf3abe58332cdcfee1e1747"> Foundations of Cybersecurity <b>
 
 <h2>📜 Projects:<h2>
+
+ - <b> File Encryption
  <h2>🌱I’m currently learning:</h2>
  
  - <b>Google Cybersecurity Professional Certificate</b>
