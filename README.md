@@ -1,9 +1,11 @@
-<h1>Hi, I'm Jesus!  <a href="www.linkedin.com/in/CyberSilo">Cybersecurity Specialist | IT Help Desk </a>
+<h1>Hi, I'm Jesus!  <a href="www.linkedin.com/in/CyberSilo">Cybersecurity Analyst | IT Help Desk </a>
 
 <h2>📃 Certifications:</h2>
 
-- <b> example <b>
- <h2>🌱I’m currently learning</h2>
+- <b> <a href="https://coursera.org/share/eade6cd58bf3abe58332cdcfee1e1747"> Foundations of Cybersecurity <b>
+
+<h2>📜 Projects:<h2>
+ <h2>🌱I’m currently learning:</h2>
  
  - <b>Google Cybersecurity Professional Certificate</b>
 
