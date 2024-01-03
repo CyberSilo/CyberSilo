@@ -27,6 +27,8 @@
 
 <a href="https://www.coursera.org/user/155d64dc05db2f91680ceeb60b1b860b">Coursera
 
+Skype ID: live:.cid.19e072a8ec75583c
+
  
 
 
