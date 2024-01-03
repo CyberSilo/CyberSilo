@@ -8,7 +8,8 @@
 <h2>📜 Projects:<h2>
 
  - <b> <a href="https://github.com/CyberSilo/File-Encryption/tree/93aa20f67898bd00f250d5f98fda9a0a7475d24d">File Encryption
- - <b> <a href="https://github.com/CyberSilo/System-File-Repair/blob/main/README.md"> System File Repair
+ - <b> <a href="https://github.com/CyberSilo/System-File-Repair/blob/main/README.md">System File Repair
+ - <b> <a href="https://github.com/CyberSilo/Security-Audit/blob/main/README.md">Cyber Security Audits
 
  <h2>🌱I’m currently learning:</h2>
  
