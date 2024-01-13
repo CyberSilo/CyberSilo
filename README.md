@@ -4,6 +4,7 @@
 
 - <b> <a href="https://coursera.org/share/eade6cd58bf3abe58332cdcfee1e1747"> Foundations of Cybersecurity <b>
 - <b> <a href="https://coursera.org/share/d73a0f48ce7315a6fd11c47d2269e985"> Play It Safe: Manage Security Risk <b>
+- <b> <a href="https://coursera.org/share/9fd4ee5b18b812279b0007eb75c22f74"> Connect and Protect: Networks and Network Security <b>
 
 <h2>📜 Projects:<h2>
 
