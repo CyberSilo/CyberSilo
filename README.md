@@ -16,13 +16,13 @@
 
  <h2>🌱I’m currently learning:</h2>
  
- - <b>Google Cybersecurity Professional Certificate</b>
+ - <b>Python</b>
 
   - <b>Linux <b>
 
- - <b>SIEM Tools <b>
+ - <b>SQL<b>
 
- - <b>IDS Tools <b>
+ - <b>Networking<b>
 
  <h2>📞Find Me</h2>
 
