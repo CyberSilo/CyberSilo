@@ -14,6 +14,10 @@
  - <b> <a href="https://github.com/CyberSilo/Security-Audit/blob/main/README.md">Security Audits & Reports
  - <b> <a href="https://github.com/CyberSilo/Analyzing-DNS-and-ICMP-Traffic/blob/main/README.md">Analyzing DNS & ICMP
  - <b> <a href="https://github.com/CyberSilo/Cyber-Attacking/blob/main/README.md">Cyber Attacking
+<b/>
+<h2>Completed Courses<h2>
+
+- <b> Brilliant
 
  <h2>🌱I’m currently learning:</h2>
  
