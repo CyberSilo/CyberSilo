@@ -17,7 +17,7 @@
 <b/>
 <h2>Completed Courses<h2>
 
-- <b> Brilliant
+- <b> <a href="https://github.com/CyberSilo/CyberSilo/blob/main/CoursesComplete.md">Brilliant
 
  <h2>🌱I’m currently learning:</h2>
  
