@@ -27,7 +27,7 @@
 
  - <b>SQL<b>
 
- - <b>Networking<b>
+ - <b>AI<b>
 
  <h2>📞Find Me</h2>
 
